@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Cytometry In R
+
+Location: Norway
+
+My Favorite Fluorophore: PE-Cy7
+
+Previous Coding Experience: Repeatedly Calling IT
+
+What I Hope to Get From This Course: Some beautiful, well separated and accurately analyzed FLOWSOM clusters.
